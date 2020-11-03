@@ -3,9 +3,12 @@
 
 ##### Руководитель: д.т.н., проф. Туснин А.Р.
 
-[Публикация ("Промышленное и гражданское строительство" 09/2020)](https://www.elibrary.ru/item.asp?id=44031405)
+#### [Публикация ("Промышленное и гражданское строительство" 09/2020)](https://www.elibrary.ru/item.asp?id=44031405)
 
 #### ![Презентация с защиты](https://github.com/platonovaleria/M.Eng._dissertation/blob/master/presentation.pptx)
+
+#### Автоматизированное создание модели узла в FEMAP с помощью встроенного модуля *Programming Files*
+![gif](https://github.com/platonovaleria/M.Eng._dissertation/blob/master/auto_joint.gif)
 
 
 ### ОГЛАВЛЕНИЕ:
