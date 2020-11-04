@@ -7,7 +7,7 @@
 
 #### ![Презентация с защиты](https://github.com/platonovaleria/M.Eng._dissertation/blob/master/presentation.pptx)
 
-#### Автоматизированное создание модели узла в FEMAP с помощью встроенного модуля *Programming Files*
+#### Автоматизированное создание модели узла в FEMAP с помощью встроенного модуля *Program File*
 ![gif](https://github.com/platonovaleria/M.Eng._dissertation/blob/master/auto_joint.gif)
 
 
